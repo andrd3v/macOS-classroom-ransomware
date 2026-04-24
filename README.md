@@ -2,7 +2,7 @@
 
 > **TL;DR:** A regular sandboxed app from the Mac App Store can lock your entire screen with a custom message, block all keyboard and mouse input, and you can't dismiss it. No special entitlements needed. Apple says it's not a security issue.
 
-![PoC in action](poc.png)
+<img src="poc.png" width="500">
 
 ---
 
@@ -279,7 +279,7 @@ And of course, since we have all 44 methods, the "ransomware" angle is just the 
 
 ## Apple's response
 
-![Apple's response](apple.png)
+<img src="apple.png" width="450">
 
 > *"We're unable to identify a security issue in your report."*
 
