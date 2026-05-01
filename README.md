@@ -287,4 +287,22 @@ And of course, since we have all 44 methods, the "ransomware" angle is just the 
 
 *macOS 26.5 beta (25F5053d). Tested April 2026.*
 
+---
+
+## Update — May 1, 2026
+
+### Apple's final response
+
+After the initial "we're unable to identify a security issue" reply, I followed up asking to clarify their position:
+
+<img src="my_update.png" width="380">
+
+Apple Product Security responded a week later:
+
+<img src="update.png" width="380">
+
+So Apple acknowledges the behavior is "disruptive" but classifies it as a "temporary, recoverable denial-of-service condition" — not a security boundary violation. No fix planned, no bounty. The 44 unauthenticated methods on `loginwindow` remain fully accessible to any sandboxed app.
+
+---
+
 ### andrd3v
